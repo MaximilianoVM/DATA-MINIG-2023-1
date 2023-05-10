@@ -1,0 +1,24 @@
+@relation SANV_AGEBS_10
+
+@attribute NOM_MUN {Ensenada}
+@attribute LOC numeric
+@attribute NOM_LOC {'San Vicente'}
+@attribute AGEB string
+@attribute MZA numeric
+@attribute P_TOTAL numeric
+@attribute POB65_MAS numeric
+@attribute GRAPROES numeric
+@attribute PROM_HNV numeric
+@attribute VIVTOT numeric
+@attribute PRO_OCUP_C numeric
+@attribute PROM_OCUP numeric
+@attribute VPH_PC numeric
+@attribute OTRAENT numeric
+@attribute P_0A5 numeric
+
+@data
+Ensenada,243,'San Vicente',1819,1,9,4,6.88,1.83,2,1,2.78,3,18,8
+Ensenada,243,'San Vicente',8178,1,855,65,5.959444,2.565278,324,0.901944,3.193056,92,406,121
+Ensenada,243,'San Vicente',8182,1,944,74,6.354865,2.498108,330,1.087027,3.557297,46,396,141
+Ensenada,243,'San Vicente',8197,1,1074,39,6.283415,2.369512,342,1.061463,3.398537,81,485,165
+Ensenada,243,'San Vicente',820A,1,1480,56,6.663415,2.344146,494,0.923171,3.166341,117,645,271
